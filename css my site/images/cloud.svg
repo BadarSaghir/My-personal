@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg18"
+   xml:space="preserve"
+   enable-background="new 0 0 150 45"
+   viewBox="0 0 149.52809 44.101955"
+   height="44.101955"
+   width="149.52809"
+   preserveAspectRatio="xMidYMid meet"
+   y="0px"
+   x="0px"
+   version="1.1"><metadata
+   id="metadata24"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs22" />
+   
+    <g
+   transform="translate(-0.16406642,-0.47804437)"
+   id="group3">
+        <path
+   style="fill:#f6f9f8;stroke:none"
+   d="M 0.17,44.58 C -0.06,34.67 6.41,30.71 17.23,31.18 21.18,18.58 33.15,16.98 47.33,19.21 53.03,4 81.36,-5.57 100.01,4.85 c 6.53,3.65 9.89,9.05 15.05,13.88 18.19,-7.03 38.13,7.15 34.11,25.85 -49.66,0 -99.34,0 -149,0 z m 0,0"
+   id="bezier" />
+        <path
+   style="fill:#d8e5e1;stroke:none"
+   d="m 80.52,29.98 c 4.02,0 7.27,-3.11 7.27,-6.94 H 73.24 c 0,3.83 3.26,6.94 7.28,6.94 z m 0,0"
+   id="bezier2" />
+        <g
+   id="group">
+            <g
+   id="group2">
+                <g
+   clip-path="url(#bezier3)"
+   id="sVGID_2_">
+                    <clipPath
+   id="bezier3">
+                        <path
+   id="path4"
+   d="m 49.34,16.35 h 22.61 v 8.38 H 49.34 Z m 0,0" />
+                    </clipPath>
+                    <path
+   style="fill:none;stroke:#d8e5e1;stroke-width:2;stroke-miterlimit:10"
+   d="m 65.92,20.62 c 2.65,2.59 2.65,6.79 0,9.38 -2.65,2.59 -6.95,2.59 -9.6,0 -2.64,-2.59 -2.64,-6.79 0,-9.38 2.65,-2.59 6.95,-2.59 9.6,0 z m 0,0"
+   stroke-miterlimit="10"
+   id="bezier4" />
+                </g>
+            </g>
+            <g
+   id="group4">
+                <g
+   clip-path="url(#bezier5)"
+   id="sVGID_4_">
+                    <clipPath
+   id="bezier5">
+                        <path
+   id="path10"
+   d="m 89.32,16.38 h 21.63 v 8.38 H 89.32 Z m 0,0" />
+                    </clipPath>
+                    <path
+   style="fill:none;stroke:#d8e5e1;stroke-width:2;stroke-miterlimit:10"
+   d="m 105.18,20.65 c 2.53,2.59 2.53,6.8 0,9.39 -2.54,2.59 -6.64,2.59 -9.18,0 -2.53,-2.59 -2.53,-6.8 0,-9.39 2.54,-2.59 6.64,-2.59 9.18,0 z m 0,0"
+   stroke-miterlimit="10"
+   id="bezier6" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
